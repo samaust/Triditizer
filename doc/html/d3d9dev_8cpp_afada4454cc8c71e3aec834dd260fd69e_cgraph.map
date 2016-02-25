@@ -1,0 +1,14 @@
+<map id="hkIDirect3DDevice9_BeginScene" name="hkIDirect3DDevice9_BeginScene">
+<area shape="rect" id="node2" href="$d3d9dev_8cpp.html#af4e5f91dc3174149e9f234d71b6a3ee1" title="initSurfaces" alt="" coords="238,35,329,61"/>
+<area shape="rect" id="node5" href="$d3d9dev_8cpp.html#ad714dfe8c661ceee43d8bac6d45f5986" title="decreaseSeparation" alt="" coords="215,85,352,112"/>
+<area shape="rect" id="node6" href="$d3d9dev_8cpp.html#a5939627b7aec77b65e36cc6c30039001" title="increaseSeparation" alt="" coords="217,136,350,163"/>
+<area shape="rect" id="node7" href="$d3d9dev_8cpp.html#a50bd2a1bfd7f49fc57fbb83049d2abfe" title="decreaseConvergence" alt="" coords="209,187,358,213"/>
+<area shape="rect" id="node8" href="$d3d9dev_8cpp.html#acbffa6cf6a1019df41711481a4622974" title="increaseConvergence" alt="" coords="211,237,356,264"/>
+<area shape="rect" id="node9" href="$classc_menu.html#a4317f7dee795e733fefbda76681e05d8" title="cMenu::HandleKeyNavigation" alt="" coords="188,288,379,315"/>
+<area shape="rect" id="node10" href="$classc_menu.html#aacc6281f813dce3f608e2f67e58ca2d5" title="cMenu::HandleItemHotkeys" alt="" coords="192,339,375,365"/>
+<area shape="rect" id="node11" href="$classc_menu.html#a7f43568e0b9c3b53a5de23e177306cd9" title="cMenu::DragMenuWindow" alt="" coords="196,389,371,416"/>
+<area shape="rect" id="node13" href="$d3d9dev_8cpp.html#ac450a7d1ac51cbdafdf2b81426890a5d" title="move_view" alt="" coords="242,440,325,467"/>
+<area shape="rect" id="node3" href="$d3d9dev_8cpp.html#a119e4f91399cda6855d51003b1625cd5" title="IsDepthFormatOk" alt="" coords="448,5,572,32"/>
+<area shape="rect" id="node4" href="$d3d9dev_8cpp.html#ad6c88658be0450835737d5d87f35201f" title="hkIDirect3DDevice9\l_SetDepthStencilSurface" alt="" coords="427,57,593,98"/>
+<area shape="rect" id="node12" href="$classc_menu.html#acd3e060da340bd61aae892a09fc229f4" title="cMenu::IsMouseInVector" alt="" coords="427,389,593,416"/>
+</map>

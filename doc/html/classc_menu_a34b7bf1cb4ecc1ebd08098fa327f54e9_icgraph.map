@@ -1,0 +1,9 @@
+<map id="cMenu::InitializeMenu" name="cMenu::InitializeMenu">
+<area shape="rect" id="node2" href="$class_c_d3_d_manager.html#a8052247ab7cb2f9b446c470610963ad7" title="CD3DManager::Initialize" alt="" coords="201,42,363,69"/>
+<area shape="rect" id="node3" href="$d3d9dev_8h.html#afcc0f89c0cd390f7203ee6e9ef82ddb5" title="hkIDirect3DDevice9\l_IDirect3DDevice9" alt="" coords="447,5,581,47"/>
+<area shape="rect" id="node8" href="$class_c_d3_d_manager.html#a690db6cae8575352280e9154f796b4bf" title="CD3DManager::~CD3DManager" alt="" coords="411,71,617,98"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a01b303d767d8ca1c5f7e2f6214ae8244" title="myCreateDevice" alt="" coords="665,13,781,39"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a0bfd7dc997c70a548c6506dda3a2086b" title="myDirect3DCreate9" alt="" coords="829,13,964,39"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#ae01243f799e5ffe9a73504a7404a95cc" title="HookD3D9" alt="" coords="1012,13,1096,39"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#ac3546749f57f606729665394111a5f47" title="DllMain" alt="" coords="1144,13,1209,39"/>
+</map>

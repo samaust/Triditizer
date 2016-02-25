@@ -1,0 +1,14 @@
+<map id="VS_addcode_common" name="VS_addcode_common">
+<area shape="rect" id="node2" href="$d3d9dev_8h.html#a1de17f8aa6e3889d8b0a04adc828a72a" title="VS_addcode_ORe1_VS11_LS0" alt="" coords="207,5,412,32"/>
+<area shape="rect" id="node9" href="$d3d9dev_8h.html#a525a3bf7339c1ffd7e2e703c330722a2" title="VS_addcode_ORe1_VS11_LS1" alt="" coords="207,56,412,83"/>
+<area shape="rect" id="node10" href="$d3d9dev_8h.html#a25ff467c9b8ce4c98f09c8037bfcc8d4" title="VS_addcode_ORe1_VS20_LS0" alt="" coords="207,107,412,133"/>
+<area shape="rect" id="node11" href="$d3d9dev_8h.html#a612cc467ece3f1537db3cd149dcdeaee" title="VS_addcode_ORe1_VS20_LS1" alt="" coords="207,157,412,184"/>
+<area shape="rect" id="node12" href="$d3d9dev_8h.html#a78dfe5cb4366c8e9a15d777a484a751a" title="VS_addcode_ORe1_VS30_LS0" alt="" coords="207,208,412,235"/>
+<area shape="rect" id="node13" href="$d3d9dev_8h.html#aa9d50bad77e72f802939ae2ca4abfe52" title="VS_addcode_ORe1_VS30_LS1" alt="" coords="207,259,412,285"/>
+<area shape="rect" id="node3" href="$d3d9dev_8h.html#a06e10a854a471f72c2741095dd396e14" title="CreateStereoVertexShader" alt="" coords="460,132,637,159"/>
+<area shape="rect" id="node4" href="$d3d9dev_8h.html#a3b49682dfa7791dad36050a579533f28" title="hkIDirect3DDevice9\l_CreateVertexShader" alt="" coords="685,125,832,166"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a01b303d767d8ca1c5f7e2f6214ae8244" title="myCreateDevice" alt="" coords="880,132,996,159"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a0bfd7dc997c70a548c6506dda3a2086b" title="myDirect3DCreate9" alt="" coords="1044,132,1179,159"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#ae01243f799e5ffe9a73504a7404a95cc" title="HookD3D9" alt="" coords="1227,132,1311,159"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#ac3546749f57f606729665394111a5f47" title="DllMain" alt="" coords="1359,132,1424,159"/>
+</map>

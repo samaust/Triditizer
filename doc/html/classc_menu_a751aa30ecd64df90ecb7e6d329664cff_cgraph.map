@@ -1,0 +1,5 @@
+<map id="cMenu::DrawHealthBox" name="cMenu::DrawHealthBox">
+<area shape="rect" id="node2" href="$classc_menu.html#a0b29a8e3ad47270f08db1595cb87f5bc" title="cMenu::FillARGB" alt="" coords="396,5,519,32"/>
+<area shape="rect" id="node4" href="$classc_menu.html#a275a243dcd328484a8287b0fc8925eb5" title="cMenu::DrawBorder" alt="" coords="212,31,348,57"/>
+<area shape="rect" id="node3" href="$classc_menu.html#a89326344007c2dc68540769eaa832cd8" title="cMenu::FillRGB" alt="" coords="567,5,681,32"/>
+</map>

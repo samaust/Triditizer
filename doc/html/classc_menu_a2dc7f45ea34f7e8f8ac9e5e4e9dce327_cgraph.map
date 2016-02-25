@@ -1,0 +1,8 @@
+<map id="cMenu::DrawMenu" name="cMenu::DrawMenu">
+<area shape="rect" id="node2" href="$classc_menu.html#a808c7a72b6e785b59c315b792df07675" title="cMenu::DrawBox" alt="" coords="217,5,338,32"/>
+<area shape="rect" id="node6" href="$classc_menu.html#af90e3796953920abf6106ff140bc6035" title="cMenu::DrawGameTextPixel" alt="" coords="184,56,371,83"/>
+<area shape="rect" id="node7" href="$classc_menu.html#acd3e060da340bd61aae892a09fc229f4" title="cMenu::IsMouseInVector" alt="" coords="194,107,361,133"/>
+<area shape="rect" id="node3" href="$classc_menu.html#a0b29a8e3ad47270f08db1595cb87f5bc" title="cMenu::FillARGB" alt="" coords="603,5,725,32"/>
+<area shape="rect" id="node5" href="$classc_menu.html#a275a243dcd328484a8287b0fc8925eb5" title="cMenu::DrawBorder" alt="" coords="419,31,555,57"/>
+<area shape="rect" id="node4" href="$classc_menu.html#a89326344007c2dc68540769eaa832cd8" title="cMenu::FillRGB" alt="" coords="773,5,888,32"/>
+</map>

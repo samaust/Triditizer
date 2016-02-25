@@ -1,0 +1,6 @@
+<map id="cMenu::DrawRadar" name="cMenu::DrawRadar">
+<area shape="rect" id="node2" href="$classc_menu.html#a808c7a72b6e785b59c315b792df07675" title="cMenu::DrawBox" alt="" coords="185,23,307,49"/>
+<area shape="rect" id="node3" href="$classc_menu.html#a0b29a8e3ad47270f08db1595cb87f5bc" title="cMenu::FillARGB" alt="" coords="539,23,661,49"/>
+<area shape="rect" id="node5" href="$classc_menu.html#a275a243dcd328484a8287b0fc8925eb5" title="cMenu::DrawBorder" alt="" coords="355,23,491,49"/>
+<area shape="rect" id="node4" href="$classc_menu.html#a89326344007c2dc68540769eaa832cd8" title="cMenu::FillRGB" alt="" coords="709,23,824,49"/>
+</map>
